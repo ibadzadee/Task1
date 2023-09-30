@@ -1,0 +1,11 @@
+label{
+    font-size: large;
+    font-weight: bold;
+}
+table,th,td{
+    border: 1px solid black;
+}
+table{
+    width: 500px;
+    height: 200px;
+}
