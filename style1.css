@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+ #index1{
+    background-color:rgb(249, 213, 113);
+
+}
+h1,p{
+    color:purple;
+}
+h2{
+    color:rgb(28, 120, 76);
+}
+
+a{
+    color: rgb(42, 165, 106);
+}
+
